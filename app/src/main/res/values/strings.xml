@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Horoscopo 2017</string>
+    <string name="aries">Aries</string>
+    <string name="tauro">Tauro</string>
+    <string name="geminis">Geminis</string>
+    <string name="cancer">Cancer</string>
+    <string name="leo">Leo</string>
+    <string name="virgo">Virgo</string>
+    <string name="Libra">Libra</string>
+    <string name="escorpion">Escorpión</string>
+    <string name="sagitario">Sagitario</string>
+    <string name="capricornio">Capricornio</string>
+    <string name="acuario">Acuario</string>
+    <string name="piscis">Piscis</string>
+    <string name="hAries">A pesar de que el día no inicie de la mejor manera usted no debe desesperar, la felicidad está frente suyo. Tómese el tiempo necesario para recuperarse bien. No deje de lado sus inversiones. Crema. N° 9.</string>
+    <string name="hTauro">No viva de recuerdos, lo único que hacen es traer tristeza a su vida. Cuidado con que las situaciones de tensión le sobrepasen. Aunque cueste, le recomiendo ahorrar para luego tratar de invertir. Violeta. N° 21.</string>
+    <string name="hGeminis">Falta más comunicación con los suyos, dedíqueles tiempo. Su estado anímico no debe decaer o repercutirá en su organismo. Es mejor que analice bien los detalles de cada oferta que le hagan este día. Rojo. N° 12.</string>
+    <string name="hCancer">La vida le sonríe nuevamente, no todo estaba perdido como usted pensaba. Siga adelante con fe. Calme su ritmo de vida. Nuevos proyectos laborales comienzan a aparecer en su camino, aprovéchelos. Azul. N° 5.</string>
+    <string name="hLeo">Abra su mente y corazón para que pueda entrar a su vida el amor que con tantas ganas espera. Su bienestar se encuentra dentro de usted. No se deje vencer por los compromisos que debe responder. Granate. N° 17.</string>
+    <string name="hVirgo">Es un buen momento para una aventura, pero sólo si está en soltería. Cuidado con esos síntomas que está presentando. Debe planificar mejor su presupuesto personal para ver cuánto le quedará disponible. Marrón. N° 36.</string>
+    <string name="hLibro">Los problemas se los está haciendo usted al dejar que su ex pareja vuelva a inmiscuirse otra vez en su vida. Los estados depresivos son peligrosos, pida ayuda. La humildad hará que logre más cosas. Café. N° 7.</string>
+    <string name="hEscorpion">No se ilusione tanto con esa relación, ya que para la otra persona puede no ser tan importante. Mantenga su cuerpo en equilibrio. La suerte le acompaña. Utilícela para bien pero no en apostar dinero. Blanco. N° 4.</string>
+    <string name="hSagitario">Aléjese antes de que sea demasiado tarde, no se busque más problemas o le dolerá. Baje de peso: afecciones lumbares. Los gastos sin mesura pueden desequilibrar bastante su presupuesto. Celeste. N° 19.</string>
+    <string name="hCapricornio">Esa rutina de todos los días le pasará la cuenta. Es hora de un cambio. Cuidado con los accidentes laborales. Si frena un poco más sus gastos, más adelante podrá concretar esa buena idea de negocio. Turquesa. N° 8.</string>
+    <string name="hAcuario">Confíe más en el destino trazado para usted, no olvide que todo ocurre por algo. Proteja más la salud de su familia. Más de alguna complicación en términos laborales, sólo tenga más paciencia. Negro. N° 6.</string>
+    <string name="hPiscis">Filtre mejor sus palabras, ya que puede herir sin mayor intensión. Piense bien las cosas. Equilibrar su cuerpo y mente le ayudará a su salud. Debe salir en la búsqueda de un trabajo con mayores perspectivas. Amarillo. N° 14.</string>
+</resources>

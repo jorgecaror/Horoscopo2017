@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.jorge.horoscopo2017.Login"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:background="@drawable/universo">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/blanco"
+        android:text="Bienvenido a la aplicacion para conocer que le esperan los Astros."
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Por Favor Ingrese Usuario y Contraseña"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/blanco"
+        />
+    <EditText
+        android:layout_width="300sp"
+        android:layout_height="wrap_content"
+        android:id="@+id/usuario"
+        android:textSize="25sp"
+        android:hint="Usuario"
+        android:layout_marginBottom="10dp"
+        android:background="@color/blanco"
+        />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:hint="Contraseña"
+        android:textSize="25sp"
+        android:background="@color/blanco"/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Ingresar"
+        android:textSize="20sp"
+        android:background="@color/celeste"
+        android:textColor="@color/blanco"
+        android:layout_marginTop="20dp"
+        android:id="@+id/ingresar"
+        />
+
+</LinearLayout>
