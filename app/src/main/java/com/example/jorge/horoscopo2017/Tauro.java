@@ -25,6 +25,7 @@ public class Tauro extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(Tauro.this,Seleccionar.class);
+                i.putExtra("usuario",usua.getText());
                 startActivity(i);
             }
         });

@@ -25,6 +25,7 @@ public class Capricornio extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(Capricornio.this,Seleccionar.class);
+                i.putExtra("usuario",usua.getText());
                 startActivity(i);
             }
         });

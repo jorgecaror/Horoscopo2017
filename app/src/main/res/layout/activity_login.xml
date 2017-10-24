@@ -9,6 +9,12 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:background="@drawable/universo">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/casaszodiaco"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -18,6 +24,7 @@
         android:textSize="20sp"
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"
+        android:textAlignment="center"
         />
     <TextView
         android:layout_width="wrap_content"
@@ -27,6 +34,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"
         android:textColor="@color/blanco"
+        android:textAlignment="center"
         />
     <EditText
         android:layout_width="300sp"
@@ -36,6 +44,7 @@
         android:hint="Usuario"
         android:layout_marginBottom="10dp"
         android:background="@color/blanco"
+        android:layout_gravity="center"
         />
 
     <EditText
@@ -46,7 +55,9 @@
         android:inputType="textPassword"
         android:hint="Contraseña"
         android:textSize="25sp"
-        android:background="@color/blanco"/>
+        android:background="@color/blanco"
+        android:layout_gravity="center"
+        />
     <Button
         android:layout_width="150dp"
         android:layout_height="wrap_content"
@@ -56,6 +67,7 @@
         android:textColor="@color/blanco"
         android:layout_marginTop="20dp"
         android:id="@+id/ingresar"
+        android:layout_gravity="center"
         />
 
 </LinearLayout>

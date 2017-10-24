@@ -25,6 +25,7 @@ public class Sagitario extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(Sagitario.this,Seleccionar.class);
+                i.putExtra("usuario",usua.getText());
                 startActivity(i);
             }
         });

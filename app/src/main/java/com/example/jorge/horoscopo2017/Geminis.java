@@ -25,6 +25,7 @@ public class Geminis extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(Geminis.this,Seleccionar.class);
+                i.putExtra("usuario",usua.getText());
                 startActivity(i);
             }
         });

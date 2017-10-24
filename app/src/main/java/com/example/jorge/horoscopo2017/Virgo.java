@@ -25,6 +25,7 @@ public class Virgo extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(Virgo.this,Seleccionar.class);
+                i.putExtra("usuario",usua.getText());
                 startActivity(i);
             }
         });

@@ -25,6 +25,7 @@ public class Leo extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(Leo.this,Seleccionar.class);
+                i.putExtra("usuario",usua.getText());
                 startActivity(i);
             }
         });

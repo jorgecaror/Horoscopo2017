@@ -25,6 +25,7 @@ public class Piscis extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(Piscis.this,Seleccionar.class);
+                i.putExtra("usuario",usua.getText());
                 startActivity(i);
             }
         });
